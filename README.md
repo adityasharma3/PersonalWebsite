@@ -1,4 +1,4 @@
-# adityasharma3.github.io
+Personal Website
 
 A personal website created using flask , html , css and javascript.
 
